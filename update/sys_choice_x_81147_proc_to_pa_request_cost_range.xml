@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cost_range" table="x_81147_proc_to_pa_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cost_range</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&lt;$50k</label>
+            <language>en</language>
+            <name>x_81147_proc_to_pa_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 00:20:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99067ad6db243300d10158b3ca9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 00:20:17</sys_updated_on>
+            <value>49</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cost_range</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>$50k-$150k</label>
+            <language>en</language>
+            <name>x_81147_proc_to_pa_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 00:20:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59067ad6db243300d10158b3ca9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 00:20:17</sys_updated_on>
+            <value>149</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cost_range</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>&gt;$150k</label>
+            <language>en</language>
+            <name>x_81147_proc_to_pa_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 00:20:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15067ad6db243300d10158b3ca9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 00:20:17</sys_updated_on>
+            <value>150</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cost_range</element>
+            <name>x_81147_proc_to_pa_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 00:20:17</sys_created_on>
+            <sys_id>15067ad6db243300d10158b3ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cost_range</sys_name>
+            <sys_package display_value="Proc to Pay" source="x_81147_proc_to_pa">7e647296db243300d10158b3ca9619f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Proc to Pay">7e647296db243300d10158b3ca9619f8</sys_scope>
+            <sys_update_name>sys_choice_x_81147_proc_to_pa_request_cost_range</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 00:20:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
