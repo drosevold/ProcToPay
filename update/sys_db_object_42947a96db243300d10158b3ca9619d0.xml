@@ -7,7 +7,7 @@
         <configuration_access>false</configuration_access>
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Request</label>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-04 00:16:39</sys_created_on>
         <sys_id>42947a96db243300d10158b3ca9619d0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Request</sys_name>
         <sys_package display_value="Proc to Pay" source="x_81147_proc_to_pa">7e647296db243300d10158b3ca9619f8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Proc to Pay">7e647296db243300d10158b3ca9619f8</sys_scope>
         <sys_update_name>sys_db_object_42947a96db243300d10158b3ca9619d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-04 16:42:33</sys_updated_on>
+        <sys_updated_on>2019-04-24 22:52:17</sys_updated_on>
         <update_access>true</update_access>
         <user_role display_value="x_81147_proc_to_pa.request_user" name="x_81147_proc_to_pa.request_user">88353696db243300d10158b3ca9619cb</user_role>
         <ws_access>true</ws_access>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_81147_proc_to_pa_request" sizeclass="28" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_81147_proc_to_pa_request" type="collection">
         <element choice="1" label="Cost Range" max_length="40" name="cost_range" type="integer">
             <choice>
                 <element inactive_on_update="false" label="&lt;$50k" sequence="0" value="49"/>
